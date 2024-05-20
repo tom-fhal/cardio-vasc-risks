@@ -12,7 +12,7 @@ La régression logistique s’appuie sur une fonction mathématique particulièr
 
 $$ f(x) = \frac{1}{1 + e^{-x}} $$
 
-!Fonction Sigmoïde
+<img width="400" alt="Capture d’écran 2024-05-20 à 8 08 36 PM" src="https://github.com/tom-fhal/cardio-vasc-risks/assets/115147247/7c37f4e6-8264-449f-aa42-b403941ae2db">
 
 Ici, \( e \) représente la base des logarithmes naturels, et \( x \) est la somme pondérée des variables prédictives.
 
